@@ -41,7 +41,7 @@ gem "thruster", require: false
 gem "rack-cors"
 
 # Use Active Model Serializers for JSON serialization
-gem 'active_model_serializers', '~> 0.10.13'
+gem 'active_model_serializers', '~> 0.10.16'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
